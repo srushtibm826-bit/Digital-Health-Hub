@@ -1,0 +1,9 @@
+streamlit
+pandas
+fastapi
+python-dotenv
+uvicorn
+requests
+speechrecognition
+pytesseract
+Pillow
